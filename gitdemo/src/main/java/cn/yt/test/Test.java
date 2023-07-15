@@ -11,6 +11,7 @@ public class Test {
         System.out.println("hi dada1");
         System.out.println("hi dada2");
         System.out.println("hi dada2222");
+        System.out.println("hi dada2222");
     }
 
     public static void main(String[] args) {
