@@ -8,6 +8,7 @@ public class Test {
         System.out.println("hah");
         System.out.println("我是第二个创建的");
         System.out.println("我是第二个创建的");
+        System.out.println("hi dada2");
     }
 
     public static void main(String[] args) {
